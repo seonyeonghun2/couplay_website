@@ -14,3 +14,8 @@ body {
     font-family: "Nanum Gothic", "Noto Sans KR", serif;
     color: #333
 }
+
+/* 각 영역 개별 스타일 */
+.header-links {
+    display: flex
+}
